@@ -37,7 +37,7 @@ defined('BASEPATH') OR exit('No direct script access allowed');
 	<!-- datatables -->
 	<script type="text/javascript" src="assets/datatables/datatables.min.js"></script>
 	<!-- custom js -->
-	<script type="text/javascript" src="custom/js/home.js?v=1"></script>
+	<script type="text/javascript" src="custom/js/home.js"></script>
 
 </body>
 </html>
